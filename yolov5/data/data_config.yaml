@@ -10,4 +10,5 @@ test: ../../../datasets/cones/images/test  # path to the testing images
 
 # Classes
 nc: 5  # number of classes
-names: ['red cone', 'blue cone', 'yellow cone', 'green cone', 'orange cone']  # class names, NOT SURE WHAT THEY SHOULD BE
+names: ['blue cone', 'orange cone', 'red cone', 'mystery cone', 'yellow cone'] # class names, indices match label numbers
+                                                # what color is 'mystery cone'??
