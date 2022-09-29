@@ -1,12 +1,12 @@
-# not sure if this is right!
 # parent
 # └── yolov5
 #     └── data
 #         └── data_config.yaml
 
-train: ../../../datasets/cones/images/train  # train images
-val: ../../../datasets/cones/images/validation  # val images
-test: ../../../datasets/cones/images/test  # test images
+# Paths
+train: ../../../datasets/cones/images/train  # path to the training images
+val: ../../../datasets/cones/images/validation  # path to the val images
+test: ../../../datasets/cones/images/test  # path to the testing images
 
 # Classes
 nc: 5  # number of classes
