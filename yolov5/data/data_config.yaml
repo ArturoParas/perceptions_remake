@@ -10,4 +10,4 @@ test: ../../../datasets/cones/images/test  # path to the testing images
 
 # Classes
 nc: 5  # number of classes
-names: ['red cone', 'blue cone', 'yellow cone', 'green cone', 'something cone']  # class names, NOT SURE WHAT THEY SHOULD BE
+names: ['red cone', 'blue cone', 'yellow cone', 'green cone', 'orange cone']  # class names, NOT SURE WHAT THEY SHOULD BE
